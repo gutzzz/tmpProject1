@@ -6,5 +6,9 @@ pizza
 pasta
 chicken
 
+beans
+pizza
+
+done my changes
 
 final copy
